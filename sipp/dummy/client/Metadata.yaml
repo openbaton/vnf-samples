@@ -1,0 +1,9 @@
+name: sipp-client
+provider: FOKUS
+nfvo-version: 5.0.0
+vim_types:
+ - test
+image:
+    upload: false
+    names:
+     - ubuntu-14.04-server-cloudimg-amd64-disk1

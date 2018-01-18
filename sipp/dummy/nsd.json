@@ -1,0 +1,19 @@
+{
+  "name": "Dummy Iperf NS",
+  "vendor": "FOKUS",
+  "version": "1.0",
+  "vnfd": [
+    {
+      "id": "FOKUS/sipp-client/1.0.1"
+    },
+    {
+      "id": "FOKUS/sipp-server/1.0.1"
+    }
+  ],
+  "vld": [
+    {
+      "name": "private"
+    }
+  ],
+  "vnf_dependency": []
+}
